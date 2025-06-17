@@ -62,4 +62,4 @@ Key features:
 
 # External Link
 1. [Link to my LinkedIn](https://www.linkedin.com/in/curwen-tan-8227a2300/).
-2. [Resumes]()
+
