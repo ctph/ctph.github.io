@@ -1,123 +1,65 @@
 ---
 layout: default
+title: Welcome to my portfolio
+description: I am an enthusiast in Computer Science, Bioinformatics, and App development
 ---
+# About Me
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am Curwen Pei Hong Tan, a Computer Science student in Iowa State University.
 
-[Link to another page](./another-page.html).
+Throughout my education period, I joined Iowa State Chemical and Biological Engineering Department and Iowa State Veterinary Research Institute as a Research Assistant.
 
-There should be whitespace between paragraphs.
+I gained significant knowledge and experienced throughout my career at both faculty.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<p align="center">
+  <img src="assets/css/IMG_6827.jpg" alt="Curwen's Profile Picture" width="200" />
+</p>
 
-# Header 1
+## 🧪 Experience in Chemical and Biological Engineering Faculty 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Member of [Chowdhury Lab](https://chowdhurylab.github.io/). Focusing on interdisciplinary projects at the intersection of chemical engineering and computational analysis.
 
-## Header 2
+Specialized in Image Processing and Web Development
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Technical experience includes:
+- Frontend development using React.js and JavaScript
+- Interactive dashboards with Python Dash
+- Data and structure visualization using Matplotlib and 3Dmol.js
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Website developed:
+1. [RC-Hydrolase on Render](https://rc-hydrolase.onrender.com/)
+2. [Agrivax-AI](https://agrivax.onrender.com/)
+3. [PepKnots 917 Protein Database](https://pepknot-database2.onrender.com/)
 
 
-### Definition lists can be used with HTML syntax.
+# 🧪 Experience in ISU Veterinary Medicine 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Member of [Nelli Lab](https://faculty.sites.iastate.edu/rknelli/). Working on various lab websites includes visualizing the results of high-volume RT-qPCR testing for PRRS virus using an automated 384-well platform.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Website developed:
+1. [Visualized of 384-well plate](https://platemonkeyenahncedlayoutlatest.onrender.com/)
 
-```
-The final element.
-```
+# Personal Project [CyHealth](https://youtu.be/S2zI8Qd1Dck?si=Gom8r6zReSlr3alV)
+A full-featured Android application designed to support student wellness and engagement through interactive tools.
+
+Technologies used:
+
+- Android Studio Frontend, Springboot Backend, Volley, WebSocket
+
+- CI/CD pipeline integration for automated testing and deployment
+
+Key features:
+
+- 📊 Interactive health & fitness dashboard
+
+- 💬 Real-time chat with WebSocket messaging
+
+- 🔔 Push notifications for appointments and reminders
+
+- 🧘‍♀️ Personalized workout, fitness, meal planner and BMI calculator
+
+- 👤 Secure user account settings and profile management
+
+# External Link
+1. [Link to my LinkedIn](https://www.linkedin.com/in/curwen-tan-8227a2300/).
+2. [Resumes]()
